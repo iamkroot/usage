@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.4.1](https://github.com/jdx/usage/compare/v2.4.0..v2.4.1) - 2025-10-21
+
+### 🐛 Bug Fixes
+
+- add fallback for shell by [@MeanderingProgrammer](https://github.com/MeanderingProgrammer) in [#347](https://github.com/jdx/usage/pull/347)
+
 ## [2.4.0](https://github.com/jdx/usage/compare/v2.3.2..v2.4.0) - 2025-10-21
 
 ### 🚀 Features
